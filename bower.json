@@ -1,0 +1,23 @@
+{
+  "name": "inkubatorTest",
+  "description": "inkubatorTest BORIS",
+  "main": "index.js",
+  "authors": [
+    "adebos"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "reset-css": "^2.2.1",
+    "owl.carousel": "^2.2.1",
+    "typed.js": "^2.0.5",
+    "particles.js": "^2.0.0",
+    "bPopup": "bpopup#^0.11.0",
+    "caman": "^4.1.2"
+  }
+}
